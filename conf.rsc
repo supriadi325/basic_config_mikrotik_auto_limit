@@ -1,6 +1,6 @@
 # by RouterOS 6.48.6
 # model = RB941-2nD
-# Autho : Eki Guistian
+# Author : Eki Guistian
 
 /interface bridge
 add name=bridge1
